@@ -1,0 +1,5 @@
+Credentials cache: API:53C7A1F8-56D8-4390-9AE3-D5A4E253049B
+        Principal: flmarsil@42.FR
+
+  Issued                Expires               Principal
+Aug 26 11:26:50 2019  Sep  2 11:26:47 2019  krbtgt/42.FR@42.FR
