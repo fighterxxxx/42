@@ -1,0 +1,6 @@
+Credentials cache: API:668C3BD4-B923-423E-9068-E31C6A791320
+        Principal: momahtal@42.FR
+
+  Issued                Expires               Principal
+Aug  3 19:50:55 2020  Aug 10 19:50:55 2020  krbtgt/42.FR@42.FR
+Aug  3 19:50:57 2020  Aug 10 19:50:55 2020  HTTP/student-storage-1.42.fr@42.FR

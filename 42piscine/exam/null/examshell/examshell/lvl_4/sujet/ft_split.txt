@@ -1,0 +1,38 @@
+Assignment name  : sort_int_tab
+Expected files   : sort_int_tab.c
+Allowed functions:
+--------------------------------------------------------------------------------
+
+Écrire la fonction suivante:
+
+void sort_int_tab(int *tab, unsigned int size);
+
+Cette fonction doit trier (en place !) le tableau d'ints 'tab', qui contient
+exactement 'size' entrées, dans l'ordre croissant.
+
+Les doublons doivent être préservés.
+
+Les entrées seront toujours cohérentes.
+e1r13p13% cd ..
+e1r13p13% ls
+check_mate	ft_list_foreach	rev_wstr	rostring	sort_int_tab	sort_list
+e1r13p13% ls
+check_mate	ft_list_foreach	ft_split	rev_wstr	rostring	sort_int_tab	sort_list
+e1r13p13% cd ft_split
+e1r13p13% cat subject.fr.txt
+Assignment name  : ft_split
+Expected files   : ft_split.c
+Allowed functions: malloc
+--------------------------------------------------------------------------------
+
+Écrire une fonction qui prend en paramètre une chaîne de caractères et la
+découpe en mots, qui seront retournés sous la forme d'un tableau de chaînes
+terminé par NULL.
+
+On appelle "mot" une portion de chaîne de caractères délimitée soit par des
+espaces, des retours à la ligne et/ou des tabulations, soit par le début / fin
+de la chaîne.
+
+Votre fonction devra être prototypée de la façon suivante :
+
+char    **ft_split(char *str);
